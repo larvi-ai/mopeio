@@ -4979,7 +4979,7 @@ if (KTestingModeON) {
     reg = "LOCAL";
   
   if(ACTIVATEOURGAMEMODE){addServerDef("FFA", "ahmetcan-channel-1.paiza-user-free.cloud/", reg,"80")}else{
-addServerDef("LOCALHOST", "127.0.0.1", reg,"80"); 
+addServerDef("LOCALHOST", "95.221.138.43", reg,"80");
 //addServerDef("FFA", "35.246.216.142", reg,"80"); 
 
 //reg = "FFA";
